@@ -3,7 +3,7 @@
 
 Connectly is a modern, real-time group chat application built to enable seamless communication in dynamic chat rooms. Designed with scalability and user experience in mind, Connectly supports user authentication, themed chat rooms, emoji reactions, and live messaging using React, Node.js, MongoDB, and Socket.IO.
 
-This application empowers users to create and join multiple chat rooms, customize themes, and receive instant notifications — perfect for team collaboration, community discussions, and social interactions.
+This application empowers users to create and join multiple chat rooms, customize themes, and receive instant notifications , perfect for team collaboration, community discussions, and social interactions.
 ## Features
 
 - **User Authentication**: Secure registration and login with JWT-based authentication.
